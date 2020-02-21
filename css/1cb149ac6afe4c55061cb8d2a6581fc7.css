@@ -1,0 +1,127 @@
+.panels-flexible-region {
+  padding: 0;
+}
+
+.panels-flexible-region-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-region-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-region-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-column {
+  padding: 0;
+}
+
+.panels-flexible-column-inside {
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.panels-flexible-column-inside-first {
+  padding-left: 0;
+}
+
+.panels-flexible-column-inside-last {
+  padding-right: 0;
+}
+
+.panels-flexible-row {
+  padding: 0 0 0.5em 0;
+  margin: 0;
+}
+
+.panels-flexible-row-last {
+  padding-bottom: 0;
+}
+
+.panels-flexible-column-13-main {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-13-inside {
+  padding-right: 0px;
+}
+
+.panels-flexible-13 {
+  width: auto;
+}
+
+.panels-flexible-region-13-features {
+  position: relative;
+  float: left;
+  background-color: transparent;
+  width: 649px;
+}
+
+.panels-flexible-row-13-2-inside {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+* html .panels-flexible-row-13-2-inside {
+  left: 649px;
+}
+
+.panels-flexible-region-13-leftmiddlecontent {
+  position: relative;
+  float: left;
+  background-color: transparent;
+  width: 490px;
+}
+
+.panels-flexible-region-13-rightmiddleadblock {
+  position: relative;
+  float: left;
+  background-color: transparent;
+  width: 160px;
+}
+
+.panels-flexible-row-13-main-row-inside {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+* html .panels-flexible-row-13-main-row-inside {
+  left: 650px;
+}
+
+.panels-flexible-region-13-leftbottomcontent {
+  position: relative;
+  float: left;
+  background-color: transparent;
+  width: 324px;
+}
+
+.panels-flexible-region-13-bottomrightcontent {
+  position: relative;
+  float: left;
+  background-color: transparent;
+  width: 325px;
+}
+
+.panels-flexible-row-13-1-inside {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+* html .panels-flexible-row-13-1-inside {
+  left: 649px;
+}
+
+.panels-flexible-region-13-full_width {
+  float: left;
+  width: 99.0000%;
+}
+
+.panels-flexible-row-13-3-inside {
+  padding-right: 0px;
+}
+
